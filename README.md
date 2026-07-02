@@ -1,10 +1,8 @@
 <div align="center">
   
-  <!-- Cyber Banner & Intro Header -->
-  <h1>⚡ WELCOME TO MY CYBER SYSTEM MATRIX ⚡</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=⚡+I+AM+QASIM+SAJJAD;🚀+FULL+STACK+WEB+DEVELOPER;💻+COMPUTER+SCIENCE+ENGINEER;⚙️+ARCHITECTING+AREXORA+APP" alt="Typing SVG" />
-  </p>
+  <!-- Cyber Static Banner Header -->
+  <h1>⚡ SYED MUHAMMAD QASIM SAJJAD ⚡</h1>
+  <h3>🚀 COMPUTER SCIENCE STUDENT & FULL STACK DEVELOPER</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/qasim-sajjad-209a823a8" target="_blank">
@@ -18,57 +16,31 @@
 
 ### 👨‍💻 ABOUT ME
 - 🎓 **Academic Node:** Bachelor of Science in Computer Science (BSCS) student.
-- 🛠️ **Current Focus:** Engineering reactive web interfaces using robust layout engines.
-- 🚀 **Main Project:** Architecting **Arexora**, a next-gen social network framework powered by interactive system protocols.
-- ⚡ **Core Philosophy:** Writing high-performance, clean, modular code with strict structural separation.
+- 🛠️ **Current Focus:** Engineering reactive web interfaces, HTML/CSS layout engines, and JavaScript logic flows.
+- 🚀 **Main Project:** Architecting **Arexora**, a next-gen social network framework with interactive features.
+- ⚡ **Core Philosophy:** Writing high-performance, clean, modular code with structural separation.
 
 ---
 
 ### 🛠️ DEEP SYSTEM MATRIX (TECH TRACKS)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Frontend Layer</h4>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Logic & Core Engine</h4>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| Frontend Stack | Logic & Core Engine | Tools & Ecosystem |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /> **HTML5** | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" /> **Java OOP** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /> **Git Engine** |
+| <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /> **CSS3 Layouts** | <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" /> **C++ Logic** | <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" /> **VS Code IDE** |
+| <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" /> **JavaScript ES6** | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /> **SQL Database** | <img src="https://img.shields.io/badge/Fiverr-1FDB82.svg?style=flat&logo=fiverr&logoColor=white" /> **Freelancing Node** |
+| <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" /> **Tailwind CSS** | | |
 
 ---
 
-### 📊 REAL-TIME LIVE NETWORK STATS
+### 📊 ACCOUNT CORE METRICS
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadQasimSajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=06B6D4&icon_color=A855F7&text_color=94A3B8" width="400" alt="Qasim's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadQasimSajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=06B6D4&text_color=94A3B8" width="380" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- GitHub Activity Snake Animation Layer -->
-  <h4>🔥 CONTRIBUTION SYSTEM GRAPH</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadQasimSajjad&bg_color=030712&color=06B6D4&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
+- 📈 **GitHub Node:** Active Repository tracking is fully integrated with my main web portfolio.
+- 🔧 **Architecture Optimization:** Focus on algorithmic complexity, responsive grids, and clean script initialization.
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/normal-count.svg?username=SyedMuhammadQasimSajjad&color=06B6D4&style=flat-square&label=PROFILE+PACKETS+SECURED" alt="Visitor Count" />
+  <!-- Stable Visitor Counter -->
+  <img src="https://img.shields.io/badge/Data%20Packets-Secured-06B6D4?style=flat-square" alt="Secure Status" />
 </div>
