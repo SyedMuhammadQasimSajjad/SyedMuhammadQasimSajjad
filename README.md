@@ -16,9 +16,9 @@
 
 ### 👨‍💻 ABOUT ME
 - 🎓 **Academic Node:** Bachelor of Science in Computer Science (BSCS) student.
-- 🛠️ **Current Focus:** Engineering reactive web interfaces, HTML/CSS layout engines, and JavaScript logic flows.
-- 🚀 **Main Project:** Architecting **Arexora**, a next-gen social network framework with interactive features.
-- ⚡ **Core Philosophy:** Writing high-performance, clean, modular code with structural separation.
+- 🛠️ **Current Focus:** Engineering reactive web interfaces, high-performance HTML/CSS layouts, and JavaScript dynamic scripts.
+- ⚙️ **Core Strategy:** Developing modular web architectures, tuning database structures, and handling scalable data logic.
+- ⚡ **Core Philosophy:** Writing high-performance, clean, modular code with strict structural separation.
 
 ---
 
